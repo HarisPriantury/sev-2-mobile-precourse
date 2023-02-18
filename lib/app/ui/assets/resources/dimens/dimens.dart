@@ -1,0 +1,54 @@
+class Dimens {
+  static const TEXT_SIZE_H1 = 32.0;
+  static const TEXT_SIZE_H2 = 24.0;
+  static const TEXT_SIZE_H3 = 19.0;
+  static const TEXT_SIZE_H4 = 16.0;
+  static const TEXT_SIZE_H5 = 14.0;
+  static const TEXT_SIZE_H6 = 11.0;
+  static const TEXT_SIZE_NORMAL = 14.0;
+
+  static const SPACE_1 = 1.0;
+  static const SPACE_2 = 2.0;
+  static const SPACE_3 = 3.0;
+  static const SPACE_4 = 4.0;
+  static const SPACE_5 = 5.0;
+  static const SPACE_6 = 6.0;
+  static const SPACE_7 = 7.0;
+  static const SPACE_8 = 8.0;
+  static const SPACE_9 = 9.0;
+  static const SPACE_10 = 10.0;
+  static const SPACE_11 = 11.0;
+  static const SPACE_12 = 12.0;
+  static const SPACE_13 = 13.0;
+  static const SPACE_14 = 14.0;
+  static const SPACE_15 = 15.0;
+  static const SPACE_16 = 16.0;
+  static const SPACE_17 = 17.0;
+  static const SPACE_18 = 18.0;
+  static const SPACE_19 = 19.0;
+  static const SPACE_20 = 20.0;
+  static const SPACE_22 = 22.0;
+  static const SPACE_24 = 24.0;
+  static const SPACE_25 = 25.0;
+  static const SPACE_30 = 30.0;
+  static const SPACE_32 = 32.0;
+  static const SPACE_35 = 35.0;
+  static const SPACE_40 = 40.0;
+  static const SPACE_41 = 41.0;
+  static const SPACE_45 = 45.0;
+  static const SPACE_48 = 48.0;
+  static const SPACE_50 = 50.0;
+  static const SPACE_55 = 55.0;
+  static const SPACE_60 = 60.0;
+  static const SPACE_70 = 70.0;
+  static const SPACE_80 = 80.0;
+  static const SPACE_90 = 90.0;
+  static const SPACE_100 = 100.0;
+  static const SPACE_120 = 120.0;
+  static const SPACE_130 = 130.0;
+  static const SPACE_170 = 170.0;
+  static const SPACE_200 = 200.0;
+
+  static const ICON_DEFAULT_SIZE = 24.0;
+  static const ICON_BOTTOMNAV_SIZE = 18.0;
+}

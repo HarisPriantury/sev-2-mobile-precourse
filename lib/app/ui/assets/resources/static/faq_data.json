@@ -1,0 +1,346 @@
+{
+  "result": {
+    "data": [{
+      "id": 28,
+      "type": "QUES",
+      "phid": "PHID-QUES-lzqkbo3bngzmz6girekj",
+      "fields": {
+        "title": "Bagaimana cara Log out?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Masuk ke homepage, lalu tap nama workspace di kanan atas, kemudian tekan icon logout di list workspace yang ada.",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722449,
+        "dateModified": 1632722803,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 27,
+      "type": "QUES",
+      "phid": "PHID-QUES-msrkil4zs2mx3ql64vfc",
+      "fields": {
+        "title": "Bagaimana cara membuat Direct Message",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Tap icon pesan di bagian bawah aplikasi, lalu tap icon \u201cgambar icon pensil\u201d di sebelah kanan atas, lalu pilih penerima pesan, kemudian ketikan pesan yang ingin dikirimkan",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722412,
+        "dateModified": 1632722795,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 26,
+      "type": "QUES",
+      "phid": "PHID-QUES-bcspnlfvcvfdsarztq4x",
+      "fields": {
+        "title": "Bagaimana cara membuat Kalender?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Masuk ke dalam room lalu tap menu kalender, kemudian tap tombol \u201ctambah\u201d di sebelah kanan atas, lalu isi detail event sesuai kebutuhan.",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722387,
+        "dateModified": 1632722785,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 25,
+      "type": "QUES",
+      "phid": "PHID-QUES-rjjypkzzkamxhif4eekd",
+      "fields": {
+        "title": "Bagaimana cara membuat Tiket?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Masuk ke dalam room lalu tap menu task\/tugas kemudian tap tombol \u201ctambah\u201d di sebelah kanan atas, lalu isi detail tugas sesuai kebutuhan.",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722354,
+        "dateModified": 1632722777,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 24,
+      "type": "QUES",
+      "phid": "PHID-QUES-t4rqfcs5bqyegilvk5rn",
+      "fields": {
+        "title": "Apa bedanya  Ad hoc dan tiket di set status?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Ad Hoc Status adalah situasi dimana kamu melakukan pekerjaan dengan kondisi tertentu ( ex: Rapat, Meeting, Townhall)\nTiket adalah Tugas dengan instruksi tertentu, berisi story point yang bisa kamu kerjakan.\n",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722337,
+        "dateModified": 1632722765,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 23,
+      "type": "QUES",
+      "phid": "PHID-QUES-msrdkrq65qjwxuwe6pcp",
+      "fields": {
+        "title": "Bagaimana cara Set Status?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Menambah atau mengubah status, cukup slide ke kiri di homepage dan atur status yang kamu inginkan.",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722302,
+        "dateModified": 1632722755,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 22,
+      "type": "QUES",
+      "phid": "PHID-QUES-yof5tnw2edekdgt4om6n",
+      "fields": {
+        "title": "Apa itu Status dalam SEV-2?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Status adalah suatu kondisi saat kamu berada di dalam workspace",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722258,
+        "dateModified": 1632722745,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 21,
+      "type": "QUES",
+      "phid": "PHID-QUES-duhl5xjjb267vt5znbuu",
+      "fields": {
+        "title": "Bagaimana cara Join Room?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Untuk bergabung dengan salah satu room Room kamu bisa mencari dengan fitur search di homepage atau kamu bisa memilihnya didalam homepage kamu, kemudian tap \u201cJoin\u201d untuk bergabung kedalam room.",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722236,
+        "dateModified": 1632722736,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 20,
+      "type": "QUES",
+      "phid": "PHID-QUES-ec3w37jtf5tlu3c5vhha",
+      "fields": {
+        "title": "Apa itu Room?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Room adalah tempat kamu bisa bertukar informasi baik secara lisan maupun suara serta mengontrol\/memanage pekerjaan yang sedang berlangsung di dalam tim",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722212,
+        "dateModified": 1632722725,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 19,
+      "type": "QUES",
+      "phid": "PHID-QUES-z4yhlhy7m3retlvmwx64",
+      "fields": {
+        "title": "Apa itu Workspace?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Workspace adalah kantor virtual yang kamu miliki di dalam aplikasi sev-2",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632722156,
+        "dateModified": 1632722156,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 18,
+      "type": "QUES",
+      "phid": "PHID-QUES-zmi5ktmjkqxvdrsj7lzh",
+      "fields": {
+        "title": "Apa itu SEV-2?",
+        "status": "open",
+        "content": "",
+        "answerSummary": "Sev-2 adalah salah satu platform yang dapat memudahkan team dalam pengendalian koordinasi, manajemen dan kondisional project tim yang tersedia dalam desktop dan mobile app",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632721787,
+        "dateModified": 1632721787,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 17,
+      "type": "QUES",
+      "phid": "PHID-QUES-udsnzh4qk3mhvd7vojfl",
+      "fields": {
+        "title": "Second question for Mobile FAQ",
+        "status": "open",
+        "content": "Some details",
+        "answerSummary": "Some answers",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632399472,
+        "dateModified": 1632399472,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 16,
+      "type": "QUES",
+      "phid": "PHID-QUES-bmgvks5ve3qodexji3j4",
+      "fields": {
+        "title": "First item of Mobile FAQ",
+        "status": "open",
+        "content": "The detail of question.",
+        "answerSummary": "This is the answer.",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1632398981,
+        "dateModified": 1632398981,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 14,
+      "type": "QUES",
+      "phid": "PHID-QUES-wxpxvcch5kohggfh34ks",
+      "fields": {
+        "title": "Bagaimana memulai chat personal dengan platform ini",
+        "status": "resolved",
+        "content": "Saya ingin chat personal untuk menanyakan atau hal lain tentang pekerjaan melalui platfrom ini. Bagaimana melakukannya? Saya tidak bisa menemukan cara untuk bisa chat personal. Apakah harus membuat room dulu?",
+        "answerSummary": "",
+        "answers": [{
+          "title": "Betul, Direct Message sebenarnya sama dengan room biasa - perbedaannya hanya pada jumlah participant yang dlm hal ini hanya 2 orang.\n\nStep :\n\n1. Klik tombol tambah room\n{F4974}\n\n2. Buat nama room dan orang yang hendak di DM.\n{F4975}\n\n3. Selesai. DM akan muncul di bagian \"Direct Messages\"\n{F4976}"
+        }],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1612934724,
+        "dateModified": 1612980543,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 13,
+      "type": "QUES",
+      "phid": "PHID-QUES-nkdhlr3cx7frh6k6tzb3",
+      "fields": {
+        "title": "Undangan Meeting tidak muncul",
+        "status": "resolved",
+        "content": "untuk agenda meeting tadi kok tidak muncul di tempat saya ya? \n\ntakutnya kalau ada agenda selanjutnya tidak terundang lagi. jika saya mengakses [[ URL | dashboard.refactory.id\/E3 ]] munculnya seperti ini {F3953}\n\nTerjadi juga di teman-teman admin yg lain. Hanya Septin & Bella yang muncul undanganya.",
+        "answerSummary": "",
+        "answers": [{
+          "title": "Sepertinya ini problem permission. Coba kamu buat calendar event dengan rekan bizdev - untuk melihat apa isu ini hanya muncul di event itu saja - atau di semua event "
+        }],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1612854955,
+        "dateModified": 1615262761,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 12,
+      "type": "QUES",
+      "phid": "PHID-QUES-dfjy6dc5wie3436xbqsx",
+      "fields": {
+        "title": "Kenapa Dashboard kadang error?",
+        "status": "resolved",
+        "content": "Ketika navigasi antar halaman di Phabricator, kadang saya menemukan error",
+        "answerSummary": "",
+        "answers": [{
+          "title": "Error terjadi karena exhausted connection pada database. See {T34}"
+        }],
+        "spacePHID": "PHID-SPCE-walzsiv5l4numifcxrjb",
+        "dateCreated": 1612497182,
+        "dateModified": 1612980530,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }, {
+      "id": 11,
+      "type": "QUES",
+      "phid": "PHID-QUES-dth4cxp2gjmwmyhq3ucx",
+      "fields": {
+        "title": "What is the age of the Universe",
+        "status": "invalid",
+        "content": "I always wondering how long this universe has been exists. ",
+        "answerSummary": "",
+        "answers": [],
+        "spacePHID": "PHID-SPCE-ef6geuw2f56cxnpxqucd",
+        "dateCreated": 1612376307,
+        "dateModified": 1612980436,
+        "policy": {
+          "view": "users",
+          "edit": "admin"
+        }
+      },
+      "attachments": {}
+    }],
+    "maps": {},
+    "query": {
+      "queryKey": null
+    },
+    "cursor": {
+      "limit": 100,
+      "after": null,
+      "before": null,
+      "order": null
+    }
+  },
+  "error_code": null,
+  "error_info": null
+}
